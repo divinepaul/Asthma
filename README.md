@@ -8,3 +8,6 @@ The app uses the input from the user ..and displays a graph to let know their co
 
 ---
 
+![alt text](https://raw.githubusercontent.com/divinepaul/Asthma/master/examples/images/dashboard.png)
+![alt text](https://raw.githubusercontent.com/divinepaul/Asthma/master/examples/images/record.png)
+
